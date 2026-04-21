@@ -1,6 +1,10 @@
 --// CONFIGURATION
 local ITEMS_TO_TRACK = {
-    "Chest",
+    "SaintsLeftLeg",
+    "SaintsRightLeg",
+    "SaintsLeftArm",
+    "SaintsRightArm",
+    "SaintsRibcage
 }
 
 --// SERVICES
